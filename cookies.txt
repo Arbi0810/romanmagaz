@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-sunhub.ro	TRUE	/	FALSE	1999999999	95b7931bf0f21236f8c5198ad1ba845f	79186fbac5751e27b3b69be5be7c1c25
-
